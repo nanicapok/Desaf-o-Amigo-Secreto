@@ -28,7 +28,7 @@ Puedes visualizar y utilizar la aplicación directamente desde este repositorio.
 
 ## 📸 Captura de Pantalla
 
-![Interfaz de la aplicación](https://github.com/nanicapok/Desaf-o-Amigo-Secreto/blob/main/Captura%20de%20pantalla%202025-08-14%20231308.png?raw=true)
+![Interfaz de la aplicación](https://github.com/nanicapok/Desaf-o-Amigo-Secreto/blob/main/assets/Captura%20de%20pantalla%202025-08-14%20231308.png?raw=true)
 
 ## 📝 Notas
 
